@@ -1,2 +1,2 @@
 # Rotas-Angular
-Definição e configuração de rotas com o framework Angular.
+Configuração de rotas com o framework Angular.
